@@ -54,13 +54,13 @@ Inline `code` has `back-ticks around` it.
    <p>
    ```python <br>
    s = "Python syntax highlighting" <br>
-   prints
+   print s
    ```
    </p>
    
 ```python 
    s = "Python syntax highlighting" 
-   prints 
+   print s 
 ```
 
    <p>
