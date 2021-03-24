@@ -14,12 +14,12 @@
   `[myId]: http://github.com/potatoscript/ "Title"`\
   My Link [linked-text][myId]
 
-(home)[#home]
+(home)[#Markdown]
 # Phrase-emphasis
 `*italic* and **bold**`\
 *italic* and **bold**
 
-(home)[#home]
+(home)[#Markdown]
 # SUperscript-and-subscript
 * Superscript\
   `E=MC<sup>2</sup>`\
@@ -29,3 +29,4 @@
   `The CO<sub>2</sub>`\
   The CO<sub>2</sub>
   
+  (home)[#Markdown]
