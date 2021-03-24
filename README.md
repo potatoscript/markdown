@@ -1,13 +1,27 @@
 # Markdown
+* [Heading](#Heading)
 * [Images](#Images)
 * [Line Breaks](#Line-Breaks)
 * [Links](#Links)
+* [List](#List)
 * [Phrase emphasis](#Phrase-emphasis)
 * [SUperscript and subscript](#SUperscript-and-subscript)
 * [Table](#Table)
 
+# Heading
+```
+   # Heading 1
+   ## Heading 2
+   ### Heading 3
+``` 
+# Heading 1 
+## Heading 2 
+### Heading 3 
+
+
+[home](#Markdown)
 # Images
-* Inline (titles are optional)
+* Inline (titles are optional) \
 `![text](/path/img.jpg "Title")`\
 ![markdown](https://github.com/potatoscript/homepage/blob/master/docs/image/markdown.png)
 * Reference style
@@ -16,7 +30,6 @@
 
 [id]: /url/img.jpg "Title"
 ```
-
 
 [home](#Markdown)
 # Line-Breaks
@@ -35,6 +48,46 @@
   `[myId]: http://github.com/potatoscript/ "Title"`\
   My Link [linked-text][myId]
 
+[home](#Markdown)
+# List
+* Ordered without paragraphs:
+```
+  1. Car
+  2. Dog
+```
+1. Car
+2. Dog
+
+* Unordered with paragraphs:
+```
+ * Car \
+ myCat kitty
+   
+ * Dog \
+ Snoopy
+```
+* Car \
+myCat kitty
+ 
+* Dog \
+Snoopy
+
+* Nested:
+```
+   * ABC
+     * abc 
+   * 123
+     1. A
+     2. B
+     3. C
+```
+* ABC
+     * abc     
+* 123
+ 1. A
+ 2. B
+ 3. C
+     
 [home](#Markdown)
 # Phrase-emphasis
 `*italic* and **bold**`\
