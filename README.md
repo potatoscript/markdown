@@ -42,7 +42,7 @@ Inline `code` has `back-ticks around` it.
    <p>
    ```javascript <br>
    var s = "JavaScript syntax highlighting"; <br>
-   alert(s); 
+   alert(s);  <br>
    ```
    </p>
    
@@ -54,7 +54,7 @@ Inline `code` has `back-ticks around` it.
    <p>
    ```python <br>
    s = "Python syntax highlighting" <br>
-   print s
+   print s  <br>
    ```
    </p>
    
@@ -66,7 +66,7 @@ Inline `code` has `back-ticks around` it.
    <p>
    ``` 
    No language indicated, so no syntax highlighting.  <br>
-   But let's throw in a <b>tag</b>. 
+   But let's throw in a <b>tag</b>. <br>
    ```
    </p>
    
