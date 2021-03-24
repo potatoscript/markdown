@@ -46,10 +46,10 @@ Inline `code` has `back-ticks around` it.
    ```
    </p>
    
-    ```javascript 
+```javascript 
    var s = "JavaScript syntax highlighting"; 
    alert(s); 
-   ```
+```
    
    <p>
    ```python <br>
@@ -58,10 +58,10 @@ Inline `code` has `back-ticks around` it.
    ```
    </p>
    
-   ```python 
+```python 
    s = "Python syntax highlighting" 
    prints 
-   ```
+```
 
    <p>
    ``` 
@@ -70,10 +70,10 @@ Inline `code` has `back-ticks around` it.
    ```
    </p>
    
-   ``` 
+``` 
    No language indicated, so no syntax highlighting.  
    But let's throw in a <b>tag</b>. 
-   ```
+```
 
 
 [home](#Markdown)
