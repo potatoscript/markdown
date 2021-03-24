@@ -38,25 +38,41 @@ Add another line to resume regular paragraph text.
 ```
 Inline `code` has `back-ticks around` it.
 ```
-<p>
-```javascript
-var s = "JavaScript syntax highlighting"; 
-alert(s); 
-```
-</p>
-<p>
-```python 
-s = "Python syntax highlighting" 
-print s 
-```
-</p>
-<p>
-``` 
-No language indicated, so no syntax highlighting.  
-But let's throw in a <b>tag</b>. 
-```
-</p>
 
+<div>
+   <p>
+   ```javascript <br>
+   var s = "JavaScript syntax highlighting"; <br>
+   alert(s); 
+   ```
+   </p>
+
+   <p>
+   ```python <br>
+   s = "Python syntax highlighting" <br>
+   print s 
+   ```
+   </p>
+
+   <p>
+   ``` 
+   No language indicated, so no syntax highlighting.  <br>
+   But let's throw in a <b>tag</b>. 
+   ```
+   </p>
+</div>
+   ```javascript 
+   var s = "JavaScript syntax highlighting"; 
+   alert(s); 
+   ```
+   ```python 
+   s = "Python syntax highlighting" 
+   print s 
+   ```
+   ``` 
+   No language indicated, so no syntax highlighting.  
+   But let's throw in a <b>tag</b>. 
+   ```
 
 
 [home](#Markdown)
