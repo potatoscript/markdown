@@ -50,7 +50,7 @@
 
 [home](#Markdown)
 # List
-* Ordered without paragraphs:
+## Ordered without paragraphs:
 ```
   1. Car
   2. Dog
@@ -58,7 +58,7 @@
 1. Car
 2. Dog
 
-* Unordered with paragraphs:
+## Unordered with paragraphs:
 ```
  * Car \
  myCat kitty
@@ -72,7 +72,7 @@ myCat kitty
 * Dog \
 Snoopy
 
-* Nested:
+## Nested:
 ```
    * ABC
      * abc 
