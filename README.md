@@ -1,5 +1,6 @@
 # Markdown
 * [Blockqutes](#Blockqutes)
+* [Code and Syntax Highlighting](#Code-Syntax)
 * [Heading](#Heading)
 * [Images](#Images)
 * [Line Breaks](#Line-Breaks)
@@ -30,6 +31,30 @@ Add another line to resume regular paragraph text.
 > To break the nested blockquote, add a space between lines.
 
 Add another line to resume regular paragraph text.
+
+[home](#Markdown)
+# Code-Syntax
+- Code and Syntax Highlighting
+```
+Inline `code` has `back-ticks around` it.
+```
+```
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
+```
+
 
 [home](#Markdown)
 # Heading
