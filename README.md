@@ -1,9 +1,29 @@
 # Markdown
+* [Images](#Images)
+* [Line Breaks](#Line-Breaks)
 * [Links](#Links)
 * [Phrase emphasis](#Phrase-emphasis)
 * [SUperscript and subscript](#SUperscript-and-subscript)
 * [Table](#Table)
 
+# Images
+* Inline (titles are optional)
+`![text](/path/img.jpg "Title")`\
+![markdown](https://github.com/potatoscript/homepage/blob/master/docs/image/markdown.png)
+* Reference style
+```
+![text][id]
+
+[id]: /url/img.jpg "Title"
+```
+
+
+[home](#Markdown)
+# Line-Breaks
+* insert one newline
+* use "\"
+
+[home](#Markdown)
 # Links
 * Inline (titles are optional)\
   `My Link [linked text](http://github.com/potatoscript/ "Title") `\
@@ -37,8 +57,8 @@ Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| col 3 is      | right-aligned | $1000 |
+| col 2 is      | centered      |   $10 |
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
@@ -49,9 +69,15 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-```\
+
+``` 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| col 3 is      | right-aligned | $1000 |
+| col 2 is      | centered      |   $10 |
 | zebra stripes | are neat      |    $1 |
+
+
+
+
+
