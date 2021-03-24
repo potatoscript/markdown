@@ -50,17 +50,17 @@ Inline `code` has `back-ticks around` it.
    var s = "JavaScript syntax highlighting"; 
    alert(s); 
    ```
-
+   
    <p>
    ```python <br>
    s = "Python syntax highlighting" <br>
-   print s 
+   prints
    ```
    </p>
    
    ```python 
    s = "Python syntax highlighting" 
-   print s 
+   prints 
    ```
 
    <p>
