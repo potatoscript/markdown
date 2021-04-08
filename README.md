@@ -122,7 +122,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [home](#Markdown)
 # Line-Breaks
 * insert one newline
-* use "<br>"
+* use ```<br>```
 
 [home](#Markdown)
 # Links
