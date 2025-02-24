@@ -1,12 +1,13 @@
 # **Markdown Tutorial**
 
 ## **Table of Contents**
+
 1. [Introduction to Markdown](#introduction-to-markdown)
 2. [Headings](#headings)
 3. [Paragraphs and Line Breaks](#paragraphs-and-line-breaks)
 4. [Emphasis (Bold, Italic, Strikethrough)](#emphasis-bold-italic-strikethrough)
 5. [Blockquotes](#blockquotes)
-6. [Lists (Ordered & Unordered)](#lists-ordered-unordered)
+6. [Lists (Ordered & Unordered)](#lists-ordered--unordered)
 7. [Links](#links)
 8. [Images](#images)
 9. [Code Blocks & Syntax Highlighting](#code-blocks--syntax-highlighting)
@@ -20,6 +21,7 @@
 17. [Emoji Support](#emoji-support)
 18. [Math Expressions (LaTeX)](#math-expressions-latex)
 19. [Extended Features (GitHub Flavored Markdown)](#extended-features-github-flavored-markdown)
+
 
 ---
 
