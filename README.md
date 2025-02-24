@@ -25,7 +25,7 @@
 
 ---
 
-## **1. Introduction to Markdown**
+## **Introduction to Markdown**
 Markdown is a **lightweight markup language** used to format plain text. It is widely used in:
 - **GitHub README files**
 - **Documentation**
@@ -37,7 +37,7 @@ Markdown makes text formatting easy and readable without complex HTML or CSS.
 
 ---
 
-## **2. Headings**
+## **Headings**
 You can create headings using the `#` symbol.
 
 ```markdown
@@ -58,7 +58,7 @@ You can create headings using the `#` symbol.
 
 ---
 
-## **3. Paragraphs and Line Breaks**
+## **Paragraphs and Line Breaks**
 A new paragraph is created by adding a blank line between blocks of text.
 
 ```markdown
@@ -80,7 +80,7 @@ Second line.
 
 ---
 
-## **4. Emphasis (Bold, Italic, Strikethrough)**
+## **Emphasis (Bold, Italic, Strikethrough)**
 ### **Italic**
 ```markdown
 *italic* or _italic_
@@ -107,7 +107,7 @@ Rendered as: ~~Strikethrough~~
 
 ---
 
-## **5. Blockquotes**
+## **Blockquotes**
 Used for quoting text.
 
 ```markdown
@@ -120,7 +120,7 @@ Rendered as:
 
 ---
 
-## **6. Lists (Ordered & Unordered)**
+## **Lists (Ordered & Unordered)**
 ### **Unordered List**
 ```markdown
 - Item 1
@@ -139,7 +139,7 @@ Rendered as:
 
 ---
 
-## **7. Links**
+## **Links**
 ### **Inline Links**
 ```markdown
 [Google](https://www.google.com)
@@ -155,7 +155,7 @@ Rendered as: [Google](https://www.google.com)
 
 ---
 
-## **8. Images**
+## **Images**
 ### **Inline Image**
 ```markdown
 ![Alt text](https://example.com/image.jpg "Optional Title")
@@ -170,7 +170,7 @@ Rendered as: [Google](https://www.google.com)
 
 ---
 
-## **9. Code Blocks & Syntax Highlighting**
+## **Code Blocks & Syntax Highlighting**
 ### **Inline Code**
 ```markdown
 Use `inline code` like this.
@@ -197,7 +197,7 @@ print("Hello, World!")
 
 ---
 
-## **10. Tables**
+## **Tables**
 ```markdown
 | Name   | Age | Country |
 |--------|-----|---------|
@@ -212,7 +212,7 @@ print("Hello, World!")
 
 ---
 
-## **11. Horizontal Rules**
+## **Horizontal Rules**
 ```markdown
 ---
 ```
@@ -221,14 +221,14 @@ Rendered as:
 
 ---
 
-## **12. Inline HTML**
+## **Inline HTML**
 ```markdown
 <p style="color:blue">This is blue text</p>
 ```
 
 ---
 
-## **13. Escaping Characters**
+## **Escaping Characters**
 Use a backslash (`\`) to escape characters.
 ```markdown
 \*This is not italicized\*
@@ -237,7 +237,7 @@ Rendered as: \*This is not italicized\*
 
 ---
 
-## **14. Task Lists**
+## **Task Lists**
 ```markdown
 - [x] Task 1
 - [ ] Task 2
@@ -250,7 +250,7 @@ Rendered as:
 
 ---
 
-## **15. Footnotes**
+## **Footnotes**
 ```markdown
 This is a sentence with a footnote.[^1]
 
@@ -259,7 +259,7 @@ This is a sentence with a footnote.[^1]
 
 ---
 
-## **16. Superscript and Subscript**
+## **Superscript and Subscript**
 ```markdown
 Superscript: E = mc^2
 Subscript: H~2~O
@@ -270,7 +270,7 @@ Subscript: H₂O
 
 ---
 
-## **17. Emoji Support**
+## **Emoji Support**
 ```markdown
 🚀 :rocket:
 ```
@@ -278,7 +278,7 @@ Rendered as: 🚀
 
 ---
 
-## **18. Math Expressions (LaTeX)**
+## **Math Expressions (LaTeX)**
 ```markdown
 $$ E = mc^2 $$
 ```
@@ -287,7 +287,7 @@ $$ E = mc^2 $$
 
 ---
 
-## **19. Extended Features (GitHub Flavored Markdown)**
+## **Extended Features (GitHub Flavored Markdown)**
 - Task Lists
 - Tables
 - Syntax Highlighting
